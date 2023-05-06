@@ -17,6 +17,8 @@ public class Comandos {
         git config user.email avg0020@alu.medac.es
 
         git config user.pasword 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
+    
+        git remote add origin https://github.com/avg0020/practica3trimestre.git
 
         git add.
 
